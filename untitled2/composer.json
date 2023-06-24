@@ -1,0 +1,7 @@
+{
+    "name": "dell/untitled2",
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "require": {}
+}
